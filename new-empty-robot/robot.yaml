@@ -1,0 +1,11 @@
+tasks:
+  DesafioRobo:
+    robotTaskName: DesafioRobo
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .
